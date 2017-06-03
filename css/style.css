@@ -555,13 +555,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 24px;
 }
 
-#about .about-text {
-  line-height: 26px;
-}
 
-#about .about-text:last-child {
-  margin-bottom: 0;
-}
 
 /* Services Section
 --------------------------------*/
